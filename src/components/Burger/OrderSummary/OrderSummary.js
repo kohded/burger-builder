@@ -1,5 +1,5 @@
 import React from 'react';
-import Div from '../../../hoc/Div';
+import Div from '../../../hoc/Div/Div';
 import Button from '../../UI/Button/Button';
 
 const orderSummary = (props) => {
